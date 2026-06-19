@@ -1,19 +1,18 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                  VINAY KUMAR MOTURI  •  GitHub Profile           -->
-<!--   SETUP: Upload hero-banner-opt.gif to your repo root first,     -->
-<!--   then this README auto-displays it as the animated hero!        -->
+<!--     Repo must be named: VinayKumar-MVK  (same as username)       -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   HERO BANNER — VIDEO GIF                 -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--            HERO BANNER — Animated Capsule Render              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="./hero-banner-opt.gif" width="100%" style="border-radius:12px;" alt="Vinay Kumar Moturi — Hero Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:0d2137,100:0a0a2e&height=280&section=header&text=Vinay%20Kumar%20Moturi&fontSize=52&fontColor=A78BFA&animation=twinkling&fontAlignY=45&stroke=6C63FF&strokeWidth=2&desc=Developer%20%26%20Designer%20%7C%20Hyderabad%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=20&descAlignY=65&descColor=58a6ff" width="100%"/>
 
-<!-- ANIMATED NAME + TYPING ON TOP OF VISUAL FEEL -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Vinay+Kumar+Moturi!;🚀+Developer+%26+Designer+from+Hyderabad;⚡+Building+the+Future+of+Tech;🎨+Crafting+Pixel-Perfect+Experiences;🔬+Always+Exploring+New+Technology;💡+Freelancer+%7C+Startup+Enthusiast)](https://git.io/typing-svg)
+<!-- GLOWING ANIMATED TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Vinay+Kumar+Moturi!;🚀+Building+the+Future+of+Tech;🎨+Crafting+Pixel-Perfect+Experiences;⚡+Full-Stack+%7C+Mobile+%7C+Desktop;🔬+Always+Exploring+New+Technology;💡+Freelancer+%7C+Startup+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -190,7 +189,7 @@ const vinay: Developer = {
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━  CURRENTLY LEARNING  ━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━  CURRENTLY EXPLORING  ━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🔬 Currently Exploring
 
@@ -259,7 +258,7 @@ $ vinay --status
 
 **⭐ If you like my work, give it a star — it means the world!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:0d2137,100:0a0a2e&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>
 <!-- Snake Game Repo View -->
