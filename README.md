@@ -1,15 +1,19 @@
-<div align="center">
-
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                  VINAY KUMAR MOTURI  •  GitHub Profile           -->
-<!--     Repo must be named: VinayKumar-MVK  (same as username)       -->
+<!--   SETUP: Upload hero-banner-opt.gif to your repo root first,     -->
+<!--   then this README auto-displays it as the animated hero!        -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- HERO BANNER — animated typing -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vinay%20Kumar%20Moturi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Developer%20%26%20Designer%20%7C%20Hyderabad%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=60&descSize=18" width="100%"/>
+<div align="center">
 
-<!-- ANIMATED TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=🚀+Building+the+Future+of+Tech;🎨+Crafting+Pixel-Perfect+Experiences;⚡+Full-Stack+%7C+Mobile+%7C+Desktop;🔬+Always+Exploring+New+Technology;💡+Freelancer+%7C+Startup+Enthusiast)](https://git.io/typing-svg)
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   HERO BANNER — VIDEO GIF                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img src="./hero-banner-opt.gif" width="100%" style="border-radius:12px;" alt="Vinay Kumar Moturi — Hero Banner"/>
+
+<!-- ANIMATED NAME + TYPING ON TOP OF VISUAL FEEL -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Vinay+Kumar+Moturi!;🚀+Developer+%26+Designer+from+Hyderabad;⚡+Building+the+Future+of+Tech;🎨+Crafting+Pixel-Perfect+Experiences;🔬+Always+Exploring+New+Technology;💡+Freelancer+%7C+Startup+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -257,7 +261,6 @@ $ vinay --status
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-</div>
 </div>
 <!-- Snake Game Repo View -->
 
