@@ -9,8 +9,6 @@
 <!--            HERO BANNER — Animated Capsule Render              -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:0d2137,100:0a0a2e&height=280&section=header&text=Vinay%20Kumar%20Moturi&fontSize=52&fontColor=A78BFA&animation=twinkling&fontAlignY=45&stroke=6C63FF&strokeWidth=2&desc=Developer%20%26%20Designer%20%7C%20Hyderabad%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=20&descAlignY=65&descColor=58a6ff" width="100%"/>
-
 <!-- GLOWING ANIMATED TYPING -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Vinay+Kumar+Moturi!;🚀+Building+the+Future+of+Tech;🎨+Crafting+Pixel-Perfect+Experiences;⚡+Full-Stack+%7C+Mobile+%7C+Desktop;🔬+Always+Exploring+New+Technology;💡+Freelancer+%7C+Startup+Enthusiast)](https://git.io/typing-svg)
 
@@ -257,9 +255,9 @@ $ vinay --status
 <br/><br/>
 
 **⭐ If you like my work, give it a star — it means the world!**
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:0d2137,100:0a0a2e&height=120&section=footer&reversal=true" width="100%"/>
 </div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:0d2137,100:0a0a2e&height=120&section=footer&reversal=true" width="100%"/>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
