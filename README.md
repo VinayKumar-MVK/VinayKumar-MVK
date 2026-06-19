@@ -1,154 +1,267 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,50:14182B,100:0B0E14&height=220&section=header&text=Vinay%20Kumar%20Moturi&fontSize=46&fontColor=E8E8F0&fontAlignY=40&desc=Software%20Developer%20%C2%B7%20Product%20Designer%20%C2%B7%20Hyderabad%2C%20India&descSize=16&descAlignY=58&descColor=8E8FA8" width="100%"/>
-
-<a href="https://www.linkedin.com/in/vinay-kumar-moturi-a4a554268/"><img src="https://img.shields.io/badge/LinkedIn-6C5CE7?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/Vk17dev"><img src="https://img.shields.io/badge/X_/_Twitter-6C5CE7?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="mailto:vinaykumarmvk17@gmail.com"><img src="https://img.shields.io/badge/Email-6C5CE7?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/VinayKumar-MVK"><img src="https://img.shields.io/badge/GitHub-6C5CE7?style=flat-square&logo=github&logoColor=white" /></a>
-
-<sub>![Profile Views](https://komarev.com/ghpvc/?username=VinayKumar-MVK&color=6C5CE7&style=flat-square&label=Profile+Views)</sub>
-
-</div>
-
-<br/>
-
-## Profile
-
-I'm a developer and designer based in Hyderabad, building across web, mobile, and desktop. I care about the full lifecycle of a product — from interface design to backend architecture — and ship things that feel considered, not just functional.
-
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech in Computer Science |
-| 📍 **Based in** | Hyderabad, India |
-| 💼 **Currently** | Freelance Developer & Designer |
-| 🎯 **Focus** | Full-stack web, cross-platform mobile, scalable system design |
-| 🤝 **Open to** | Freelance projects · Startup collaborations |
-
-<br/>
-
-## Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br/>
-![Java](https://img.shields.io/badge/Java-2D2F45?style=flat-square&logo=openjdk&logoColor=6C5CE7)
-![Python](https://img.shields.io/badge/Python-2D2F45?style=flat-square&logo=python&logoColor=6C5CE7)
-![TypeScript](https://img.shields.io/badge/TypeScript-2D2F45?style=flat-square&logo=typescript&logoColor=6C5CE7)
-![Dart](https://img.shields.io/badge/Dart-2D2F45?style=flat-square&logo=dart&logoColor=6C5CE7)
-![HTML5](https://img.shields.io/badge/HTML5-2D2F45?style=flat-square&logo=html5&logoColor=6C5CE7)
-
-**Frontend & Mobile**
-<br/>
-![React](https://img.shields.io/badge/React-2D2F45?style=flat-square&logo=react&logoColor=6C5CE7)
-![Flutter](https://img.shields.io/badge/Flutter-2D2F45?style=flat-square&logo=flutter&logoColor=6C5CE7)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-2D2F45?style=flat-square&logo=tailwindcss&logoColor=6C5CE7)
-![JavaFX](https://img.shields.io/badge/JavaFX-2D2F45?style=flat-square&logo=openjdk&logoColor=6C5CE7)
-![Android Studio](https://img.shields.io/badge/Android_Studio-2D2F45?style=flat-square&logo=androidstudio&logoColor=6C5CE7)
-
-</td>
-<td valign="top" width="50%">
-
-**Backend & Data**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-2D2F45?style=flat-square&logo=nodedotjs&logoColor=6C5CE7)
-![MySQL](https://img.shields.io/badge/MySQL-2D2F45?style=flat-square&logo=mysql&logoColor=6C5CE7)
-![Firebase](https://img.shields.io/badge/Firebase-2D2F45?style=flat-square&logo=firebase&logoColor=6C5CE7)
-![Supabase](https://img.shields.io/badge/Supabase-2D2F45?style=flat-square&logo=supabase&logoColor=6C5CE7)
-
-**Tools & Workflow**
-<br/>
-![Git](https://img.shields.io/badge/Git-2D2F45?style=flat-square&logo=git&logoColor=6C5CE7)
-![Figma](https://img.shields.io/badge/Figma-2D2F45?style=flat-square&logo=figma&logoColor=6C5CE7)
-![VS Code](https://img.shields.io/badge/VS_Code-2D2F45?style=flat-square&logo=visualstudiocode&logoColor=6C5CE7)
-![Postman](https://img.shields.io/badge/Postman-2D2F45?style=flat-square&logo=postman&logoColor=6C5CE7)
-![Linux](https://img.shields.io/badge/Linux-2D2F45?style=flat-square&logo=linux&logoColor=6C5CE7)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Featured Work
-
-<details open>
-<summary><b>SVR Poultry — Farm Management Platform</b></summary>
-<br/>
-
-A full-stack web application for managing poultry farm operations — inventory, production tracking, and reporting in one platform.
-
-`TypeScript` `React` `Supabase`
-
-[Repository](https://github.com/VinayKumar-MVK/svrpoultry) · [Live Demo](https://svrpoultry.vercel.app)
-
-</details>
-
-<details>
-<summary><b>GGU Experience — Cross-Platform University App</b></summary>
-<br/>
-
-A Flutter mobile app for Gokaraju Gangaraju University, featuring campus GPS, real-time push notifications, and Firebase-backed data sync.
-
-`Flutter` `Dart` `Firebase`
-
-[Repository](https://github.com/VinayKumar-MVK/GGU_Experience)
-
-</details>
-
-<details>
-<summary><b>AFO-HUB — Modular Desktop Application</b></summary>
-<br/>
-
-A JavaFX desktop hub built with a modular controller architecture, FXML-driven views, and custom CSS styling for a clean native feel.
-
-`Java` `JavaFX` `CSS`
-
-[Repository](https://github.com/VinayKumar-MVK/AFO-HUB)
-
-</details>
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=VinayKumar-MVK&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0E14&title_color=6C5CE7&icon_color=6C5CE7&text_color=8E8FA8&ring_color=6C5CE7"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumar-MVK&layout=compact&langs_count=8&hide_border=true&bg_color=0B0E14&title_color=6C5CE7&text_color=8E8FA8"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayKumar-MVK&hide_border=true&background=0B0E14&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7&sideLabels=8E8FA8&dates=8E8FA8&currStreakNum=E8E8F0&sideNums=E8E8F0" width="65%"/>
-</div>
-
-<br/>
-
-## Certifications
-
-| Credential | Issuer |
-|---|---|
-| Oracle Cloud Infrastructure 2024 Foundations Associate | Oracle |
-| Python 101 for Data Science | IBM |
-| Enterprise Networking & Security | Cisco |
-| Software Development | Certiport |
-| Postman API Fundamentals — Student Expert | Postman |
-
-<br/>
-
-## Get in Touch
-
-I'm open to freelance work, startup collaborations, and interesting open-source contributions. The fastest way to reach me is email.
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                  VINAY KUMAR MOTURI  •  GitHub Profile           -->
+<!--     Repo must be named: VinayKumar-MVK  (same as username)       -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-**[vinaykumarmvk17@gmail.com](mailto:vinaykumarmvk17@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/vinay-kumar-moturi-a4a554268/)** · **[X / Twitter](https://x.com/Vk17dev)**
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--            HERO BANNER — Animated Capsule Render              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:0d2137,100:0a0a2e&height=280&section=header&text=Vinay%20Kumar%20Moturi&fontSize=52&fontColor=A78BFA&animation=twinkling&fontAlignY=45&stroke=6C63FF&strokeWidth=2&desc=Developer%20%26%20Designer%20%7C%20Hyderabad%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=20&descAlignY=65&descColor=58a6ff" width="100%"/>
+
+<!-- GLOWING ANIMATED TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Vinay+Kumar+Moturi!;🚀+Building+the+Future+of+Tech;🎨+Crafting+Pixel-Perfect+Experiences;⚡+Full-Stack+%7C+Mobile+%7C+Desktop;🔬+Always+Exploring+New+Technology;💡+Freelancer+%7C+Startup+Enthusiast)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/vinay-kumar-moturi-a4a554268/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/Vk17dev">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+<a href="mailto:vinaykumarmvk17@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/VinayKumar-MVK">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=VinayKumar-MVK&color=A78BFA&style=flat-square&label=👁️+Profile+Views)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/VinayKumar-MVK?color=A78BFA&logo=github&style=flat-square&label=Followers)
 
 </div>
 
-<br/>
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━  ABOUT ME  ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## ⚡ `whoami`
+
+```typescript
+const vinay: Developer = {
+  name        : "Vinay Kumar Moturi",
+  title       : "Developer & Designer 🎨",
+  location    : "Hyderabad, India 🇮🇳",
+  education   : "B.Tech in Computer Science",
+  role        : "Freelancer",
+
+  passion     : "Building meaningful digital experiences — from sleek UIs to powerful backends",
+  goal        : "To build a TECH Industry 🚀",
+  mindset     : "Explore → Learn → Build → Repeat 🔁",
+
+  currentFocus: [
+    "Deep-diving into emerging technologies",
+    "Building scalable web & mobile apps",
+    "Crafting pixel-perfect UI/UX designs",
+  ],
+
+  openTo      : ["Freelance Projects", "Startup Collaborations"],
+  contact     : "vinaykumarmvk17@gmail.com",
+};
+```
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### ◈ Languages
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### ◈ Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### ◈ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ◈ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━  FEATURED PROJECTS  ━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🖥️ AFO-HUB | 🐔 SVR Poultry | 📱 GGU Experience |
+|:---:|:---:|:---:|
+| **Desktop App** | **Web App** | **Mobile App** |
+| A feature-rich **JavaFX** desktop hub with modular controllers, FXML views & clean CSS styling | A full-stack **poultry farm management** web platform — built with TypeScript, React & Supabase | A cross-platform **Flutter university app** for GGU with GPS, push notifications & Firebase |
+| ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-F89820?style=flat-square&logo=openjdk&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/VinayKumar-MVK/AFO-HUB) | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/VinayKumar-MVK/svrpoultry) [![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel)](https://svrpoultry.vercel.app) | [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/VinayKumar-MVK/GGU_Experience) |
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  GITHUB STATS  ━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinayKumar-MVK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumar-MVK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayKumar-MVK&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="65%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayKumar-MVK&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━  CERTIFICATIONS  ━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    🎖️  CERTIFIED EXPERTISE                          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  ☁️  Oracle Cloud Infrastructure 2024 Foundations Associate  Oracle  ║
+║  🐍  Python 101 for Data Science                              IBM    ║
+║  🔐  Enterprise Networking & Security                        Cisco   ║
+║  💻  Software Development                                Certiport   ║
+║  📬  Postman API Fundamentals Student Expert              Postman   ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### 🥇 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VinayKumar-MVK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### ⚡ GitHub Badges
+<div align="center">
+
+![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-0969DA?style=for-the-badge&logoColor=white)
+![YOLO](https://img.shields.io/badge/🎯_YOLO-FF6B6B?style=for-the-badge&logoColor=white)
+![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-F8B500?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━  CURRENTLY EXPLORING  ━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🔬 Currently Exploring
+
+<div align="center">
+
+```bash
+$ vinay --status
+
+[🔍] Researching emerging technologies...
+[⚡] Deep-diving into what makes them tick...
+[🚀] Transforming curiosity into code...
+[✅] Always leveling up. Always building.
+```
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  COLLABORATE  ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🤝 Let's Build Something Great
+
+<div align="center">
+
+> *"I'm open to collaborating on projects that push the boundaries of what's possible."*
+
+💼 **Freelance Projects** &nbsp;|&nbsp; 🚀 **Startup Ideas** &nbsp;|&nbsp; 🌍 **Open Source** &nbsp;|&nbsp; 💡 **Innovative Solutions**
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  CONNECT  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 📬 Find Me Here
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vinay-kumar-moturi-a4a554268/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vinay_Kumar_Moturi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/Vk17dev">
+  <img src="https://img.shields.io/badge/Twitter-@Vk17dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:vinaykumarmvk17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vinaykumarmvk17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*⚡ Fast response guaranteed — I'm always online building something!*
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+<br/><br/>
+
+**⭐ If you like my work, give it a star — it means the world!**
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:0d2137,100:0a0a2e&height=120&section=footer&reversal=true" width="100%"/>
+
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,50:14182B,100:0B0E14&height=100&section=footer" width="100%"/>
 <!-- Snake Game Repo View -->
