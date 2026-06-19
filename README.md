@@ -259,11 +259,7 @@ $ vinay --status
 **⭐ If you like my work, give it a star — it means the world!**
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:0d2137,100:0a0a2e&height=120&section=footer&reversal=true" width="100%"/>
-
 </div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,50:14182B,100:0B0E14&height=100&section=footer" width="100%"/>
 <!-- Snake Game Repo View -->
 
 <div align="center">
