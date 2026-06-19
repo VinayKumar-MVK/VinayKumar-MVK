@@ -261,9 +261,6 @@ $ vinay --status
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:0d2137,100:0a0a2e&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>
-
-
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
