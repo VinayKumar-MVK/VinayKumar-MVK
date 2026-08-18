@@ -32,7 +32,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VinayKumar-MVK&color=A78BFA&style=flat-square&label=👁️+Profile+Views)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/VinayKumar-MVK?color=A78BFA&logo=github&style=flat-square&label=Followers)
+![GitHub followers](https://github.com/VinayKumar-MVK?tab=followers)
 
 </div>
 
