@@ -5,7 +5,6 @@
 
 <div align="center">
 <img src="<img width="1983" height="793" alt="GITHUB" src="https://github.com/user-attachments/assets/314658d6-6953-496f-8e5c-01a11ebefd47" />
-" width="100%"/>
 
 <br/>
 
