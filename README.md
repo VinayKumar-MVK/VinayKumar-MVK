@@ -4,11 +4,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
-
-<!-- DEVELOPER ANIMATED GIF -->
 <img src="<img width="1983" height="793" alt="ChatGPT Image Sep 3, 2026, 10_26_51 PM" src="https://github.com/user-attachments/assets/7b2cac0e-cae4-499e-a3bc-4e47a6b3c1de" />
-" alt="Coding Animation" width="600"/>
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
