@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="vklogo" src="https://github.com/user-attachments/assets/f9866f0c-90ef-4955-a7f7-505870993221" />
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                  VINAY KUMAR MOTURI  •  GitHub Profile           -->
 <!--     Repo must be named: VinayKumar-MVK  (same as username)       -->
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://vk-portfolio17.vercel.app/">
-  <img src="<img width="1024" height="1024" alt="vklogo" src="https://github.com/user-attachments/assets/53cf146b-bc5a-408c-a0c9-0f829a1648f3" />
+  ![Uploading vklogo.png…]()
 </a>
 
 <br/><br/>
