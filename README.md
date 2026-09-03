@@ -31,8 +31,7 @@
 <a href="https://github.com/VinayKumar-MVK">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://vk-portfolio17.vercel.app/">
-  <img src="https://github.com/user-attachments/assets/398a1484-3e20-41b0-b17f-1c87096348ef" />
+<a Portfolio href="https://vk-portfolio17.vercel.app/">
 
 </a>
 
