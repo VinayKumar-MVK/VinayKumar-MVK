@@ -5,6 +5,11 @@
 
 <div align="center">
 
+
+<!-- DEVELOPER ANIMATED GIF -->
+<img src="https://raw.githubusercontent.com/VinayKumar-MVK/VinayKumar-MVK/main/assets/coding.gif" alt="Coding Animation" width="600"/>
+<br/>
+
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--            HERO BANNER — Animated Capsule Render              -->
 <!-- ══════════════════════════════════════════════════════════════ -->
