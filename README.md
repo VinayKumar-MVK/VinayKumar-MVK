@@ -126,31 +126,6 @@ const vinay: Developer = {
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━  GITHUB STATS  ━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinayKumar-MVK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumar-MVK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayKumar-MVK&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="65%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayKumar-MVK&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 <!-- ━━━━━━━━━━━━━━━━━━━━  CERTIFICATIONS  ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🏆 Certifications & Achievements
@@ -168,14 +143,6 @@ const vinay: Developer = {
 ║  📬  Postman API Fundamentals Student Expert              Postman   ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
-### 🥇 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=VinayKumar-MVK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
